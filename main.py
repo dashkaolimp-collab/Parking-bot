@@ -17,15 +17,15 @@ last_report_date = ""
 # ДАННЫЕ
 # ---------------------------------
 
-FULL_NAME = "Алехина Дарья Валентиновна"
+FULL_NAME = ""
 
-EMAIL = "dashkaolimp@mail.ru"
+EMAIL = ""
 
-CAR_NUMBER = "У159АМ58"
+CAR_NUMBER = ""
 
-PHONE = "+7 (909) 315-3408"
+PHONE = ""
 
-TROIKA = "3913 970 016"
+TROIKA = ""
 
 
 # ---------------------------------
